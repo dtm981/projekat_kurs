@@ -1,0 +1,13 @@
+name: python-docx-1
+description: Create and update Microsoft Word .docx files.
+license_spdx: MIT
+version: 0.0.2
+spec_version: 1.0
+home_url: https://github.com/atriumlts/python-docx
+news_url: https://libraries.io/pypi/python-docx-1/versions.atom
+date: 2019-08-28
+about_resource: NONE
+libraries_io_url: https://libraries.io/pypi/python-docx-1?number=0.0.2
+vcs_tool: git
+vcs_repository: https://github.com/atriumlts/python-docx
+vcs_branch: master
