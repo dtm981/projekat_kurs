@@ -19,7 +19,7 @@ mysql-connector-python==8.0.19
 mysqlclient==1.4.6
 numpy==1.18.1
 openpyxl==3.0.3
-protobuf==3.6.1
+protobuf==3.18.3
 pycosat==0.6.3
 pycparser==2.19
 pyOpenSSL==19.0.0
